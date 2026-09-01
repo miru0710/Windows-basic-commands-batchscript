@@ -92,8 +92,9 @@ assoc | more
 
 ## COMMAND AND OUTPUT
 
-
 Compare the file hello.txt and rose.txt
+<img width="611" height="200" alt="image" src="https://github.com/user-attachments/assets/fed004ed-a20e-440d-8d6a-e6f2044d7a1d" />
+
 
 ## COMMAND AND OUTPUT
 
