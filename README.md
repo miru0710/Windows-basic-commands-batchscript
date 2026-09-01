@@ -101,12 +101,8 @@ Compare the file hello.txt and rose.txt
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
-
 ## OUTPUT
-
+<img width="471" height="77" alt="image" src="https://github.com/user-attachments/assets/f88732fd-a674-44a3-981e-7fc238688e6e" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
