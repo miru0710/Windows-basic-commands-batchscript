@@ -116,6 +116,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="632" height="221" alt="image" src="https://github.com/user-attachments/assets/efa11a83-39cd-4d88-9ecb-610f51b68c4a" />
 
 
 
