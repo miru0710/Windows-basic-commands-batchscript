@@ -18,8 +18,6 @@ Write the Windows commands / batch file . Save each script in a file with a .bat
 Execute the necessary commands/batch file for the desired output. 
 
 
-
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
@@ -27,32 +25,70 @@ Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+~~~
+>mkdir my-folder
+>rmdir my-folder
+~~~
+<img width="516" height="97" alt="image" src="https://github.com/user-attachments/assets/8c07959e-a626-49f9-a1a4-396b31e87c01" />
+
 
 ## COMMAND AND OUTPUT
-
 
 Create the file Rose.txt
+~~~
+COPY CON Rose.txt
+A clock in a office can never get stolen
+Too many employees watch it all the time
+^Z
+1 file(s) copied
+dir Rose.txt
+~~~
+<img width="787" height="402" alt="image" src="https://github.com/user-attachments/assets/94ffda31-9ca3-4b2a-95cf-390d278ccaaf" />
+
 
 ## COMMAND AND OUTPUT
 
-
 Create the file hello.txt using echo and redirection
+~~~
+echo “hello world” > hello.txt
+type hello.txt
+~~~
+<img width="677" height="122" alt="image" src="https://github.com/user-attachments/assets/62434592-82bb-4fb8-ac51-d5a122f297cf" />
+
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+~~~
+copy hello.txt hello1.txt
+~~~
+<img width="612" height="72" alt="image" src="https://github.com/user-attachments/assets/7ae06418-eed2-41fa-9549-de007e5a6c54" />
+
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+~~~
+del hello1.txt
+~~~
+<img width="460" height="47" alt="image" src="https://github.com/user-attachments/assets/e542807d-cf4f-4ebf-bf10-32bf35b95a82" />
+
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+~~~
+dir hello1.txt
+~~~
+<img width="612" height="167" alt="image" src="https://github.com/user-attachments/assets/1e1e60cf-fa43-4828-8af9-2cb6ca5d6e65" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+~~~
+assoc | more
+~~~
+<img width="732" height="892" alt="image" src="https://github.com/user-attachments/assets/021e2515-97fc-46c9-b1b1-894417b51669" />
 
 ## COMMAND AND OUTPUT
 
