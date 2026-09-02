@@ -123,12 +123,8 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-
-
-
 ## OUTPUT
-
-
+<img width="505" height="210" alt="image" src="https://github.com/user-attachments/assets/c08ed4b4-94fb-4e4e-9ad1-53b18a8f3fd6" />
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -140,6 +136,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="622" height="235" alt="image" src="https://github.com/user-attachments/assets/26fa6231-82ed-400d-88e5-bb6b274e36b2" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -150,6 +147,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="647" height="452" alt="image" src="https://github.com/user-attachments/assets/e8e64dec-d05d-4f31-9152-3dd00c8a3c34" />
 
 
 
